@@ -350,7 +350,7 @@ input {
     .menu li {
         margin-right: 10px;
     }
-    .btn {
+    .btn a {
         padding: 8px;
     }
     .about .description {
